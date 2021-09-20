@@ -1,0 +1,22 @@
+#Passwordlength defines the amount of characters that will be generated in your password.
+passwordlength = 12
+
+#Passwordamount defines the amount of passwords that will be generated.
+passwordamount = 1
+
+#Uppercaseletters must be set to either true or false (not case sensitive). This enables or disables upper case letters.
+uppercaseletters = TRuE
+#Next feature is not working yet.
+uppercaseamount = 4
+
+#Numbers must be set to either true or false (not case sensitive). This enables or disables numbers.
+numbers = true
+#Next feature is not working yet.
+numbersamount = 4
+
+#Specialcharacters must be set to either true or false (not case sensitive). This enables or disables special characters.
+specialcharacters = true
+#Next feature is not working yet.
+specialcharamount = 2
+
+#Lol
